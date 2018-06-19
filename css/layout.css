@@ -341,7 +341,7 @@ ul#nav li.current a { color: #000000; }
 }
 
 .C {
-    width: 60%;
+    width: 45%;
     -moz-animation: C_prog 2s ease;
     -webkit-animation: C_prog 2s ease;
 }
@@ -364,19 +364,19 @@ ul#nav li.current a { color: #000000; }
 }
 
 .vhdl {
-    width: 40%;
+    width: 30%;
     -moz-animation: vhdl 2s ease;
     -webkit-animation: vhdl 2s ease;
 }
 
 .ruby {
-    width: 30%;
+    width: 45%;
     -moz-animation: ruby 2s ease;
     -webkit-animation: ruby 2s ease;
 }
 
 .python {
-    width: 30%;
+    width: 40%;
     -moz-animation: python 2s ease;
     -webkit-animation: python 2s ease;
 }
@@ -407,19 +407,19 @@ ul#nav li.current a { color: #000000; }
 }
 @-moz-keyframes vhdl {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 30%;  }
 }
 @-moz-keyframes C_prog {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 45%;  }
 }
 @-moz-keyframes ruby {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 45%;  }
 }
 @-moz-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 40%;  }
 }
 
 
@@ -449,19 +449,19 @@ ul#nav li.current a { color: #000000; }
 }
 @-webkit-keyframes vhdl {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 30%;  }
 }
 @-webkit-keyframes  ruby {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 45%;  }
 }
 @-webkit-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 40%;  }
 }
 @-webkit-keyframes C_prog {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 45%;  }
 }
 
 /* ------------------------------------------------------------------ */
